@@ -4,7 +4,7 @@ Waiting for ChatGPT to write a description
 
 ### Scope
 
-- [ ] Next.js app setup
+- [x] Next.js app setup
 - [ ] Explore AWS EC2. Host the app on EC2 instance and access it using IPv4 address & port
 - [ ] Setup nginx on EC2. Access the app from anywhere using a sub-domain (https://pipes.debojyotighosh.com)
 - [ ] Create a CI / CD pipeline using Jenkins for deploying the Next.js app
